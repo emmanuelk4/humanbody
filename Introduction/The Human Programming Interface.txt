@@ -1,0 +1,31 @@
+/*
+*Name: Murage Kibicho
+*Date: April 16th 2020
+*Goal: Hello World for the human body
+*Time: 3 hours
+*Title: Interfacing with the human body
+*/
+
+This is an implementation of Hello World using the left forearm, .
+
+#include <blood.h>
+#include <angiogenesis.h>
+#include <arm.h>
+#include <bloodVesselConnection.h>
+using namespace std;
+int main() {
+	vector<Venule> venule;
+	vector<Capillary> capillary;
+	vector<Arteriole> arteriole;
+	int[] position = {5, 5, 5};//array storing location
+        for (in i = 0; i < 100; i++) {
+	Grow(arteriole, capillary,venule, position +i );
+	
+}
+	
+
+	
+	
+
+
+}
