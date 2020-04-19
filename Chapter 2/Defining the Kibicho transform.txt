@@ -1,0 +1,4 @@
+Now, we lay the mathematical background for our interface
+
+Fast fourier transfroms are used in signal processing to convert analog to digital signals.
+We are using the Kibicho transform to convert body signals to machine-readable format.
